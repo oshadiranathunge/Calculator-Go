@@ -1,1 +1,1 @@
-My 1st Go project
+Simple Go application
