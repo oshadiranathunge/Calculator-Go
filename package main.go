@@ -30,7 +30,6 @@ func main() {
 			fmt.Printf("%f %s %f = %.3f", number1, number1, operator, number1/number2)
 
 		}
-
 	default:
 		fmt.Println("Invalid Operation")
 	}
