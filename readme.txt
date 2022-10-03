@@ -1,1 +1,1 @@
-Simple Go application
+Simple Go calculator application
