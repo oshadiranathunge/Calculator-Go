@@ -25,7 +25,7 @@ func main() {
 
 	case "/":
 		if num2 == 0.0 {
-			fmt.Println("Divide by zero situation")
+			fmt.Println("Cannot divide by Zero")
 		} else {
 			fmt.Printf("%f %s %f = %.3f", num1, number1, operator, number1/num2)
 
