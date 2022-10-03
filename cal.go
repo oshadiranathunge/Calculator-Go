@@ -31,6 +31,6 @@ func main() {
 
 		}
 	default:
-		fmt.Println("Invalid Operation")
+		fmt.Println("Please enter a valid operation")
 	}
 }
